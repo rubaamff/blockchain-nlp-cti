@@ -30,7 +30,7 @@ The framework is designed to automate the analysis of cyber threat reports, extr
 
 ```
 .
-├── blockchainnlpcticopy.py
+├── blockchainnlpcti.py
 ├── requirements.txt
 ├── environment_setup.md
 ├── associated_data_insert.md
@@ -52,7 +52,7 @@ The framework is designed to automate the analysis of cyber threat reports, extr
 
 ### File Descriptions
 
-- **`blockchainnlpcticopy.py`**: The main Python script containing the entire framework, including data preprocessing, model training, blockchain implementation, and visualization functions.
+- **`blockchainnlpcti.py`**: The main Python script containing the entire framework, including data preprocessing, model training, blockchain implementation, and visualization functions.
 - **`requirements.txt`**: A list of all Python dependencies required to run the project.
 - **`environment_setup.md`**: Detailed instructions on how to set up the environment for reproducibility.
 - **`associated_data_insert.md`**: The suggested text for the "Associated Data" section of the manuscript.
