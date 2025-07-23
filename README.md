@@ -4,7 +4,7 @@ This repository contains the source code, datasets, and documentation for the re
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [Research Overview](#Research-overview)
 - [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -16,7 +16,7 @@ This repository contains the source code, datasets, and documentation for the re
 - [Troubleshooting](#troubleshooting)
 - [License](#license)
 
-## Project Overview
+## Research Overview
 
 The framework is designed to automate the analysis of cyber threat reports, extract Indicators of Compromise (IOCs), classify threats, and maintain an immutable log of all processed intelligence. Key features include:
 
