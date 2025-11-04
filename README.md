@@ -1,6 +1,6 @@
 # Blockchain‑NLP‑CTI
 
-## Research Title
+
 **BERT–spaCy Hybrid NLP and Blockchain‑Enhanced Adaptive CTI for IOC Extraction and Threat Prediction**
 
 **Authors:**  
@@ -134,18 +134,5 @@ blockchain-nlp-cti/
 - `src/threat_classification.py`: Naïve Bayes TF‑IDF classifier with adaptive learning.  
 - `src/blockchain_ledger.py`: Blockchain‑style immutable log for CTI entries.  
 - `main.py`: Demonstration script showing the full workflow.  
-
----
-
-## Citation
-If you use this repository, please cite:  
-
-> Mishra, S., Alfahidah, R. A., & Al Harbi, F. (2025). *BERT–spaCy Hybrid NLP and Blockchain‑Enhanced Adaptive CTI for IOC Extraction and Threat Prediction.*
-
----
-
-## Final Notes
-This repository is a **research‑grade prototype** designed for experimentation and extension.  
-It can be scaled with deep models (fine‑tuned BERT, DistilBERT, LSTM) and deployed through **REST APIs, Docker, or Kubernetes** for real‑time CTI operations.
 
 ---
