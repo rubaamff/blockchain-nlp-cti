@@ -64,13 +64,3 @@ python main.py
 **Blockchain Integrity:**  
 All 20 blocks verified (tamper-proof).
 
----
-
-### 📘 Citation
-
-If you use this repository, please cite:
-
-> Mishra, S., Alfahidah, R. A., & Al Harbi, F. (2025).  
-> *BERT–spaCy Hybrid NLP and Blockchain-Enhanced Adaptive CTI for IOC Extraction and Threat Prediction.*
-
----
