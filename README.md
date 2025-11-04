@@ -1,7 +1,7 @@
-# Blockchain‑NLP‑CTI
+# **BERT–spaCy Hybrid NLP and Blockchain‑Enhanced Adaptive CTI for IOC Extraction and Threat Prediction**
 
 
-**BERT–spaCy Hybrid NLP and Blockchain‑Enhanced Adaptive CTI for IOC Extraction and Threat Prediction**
+
 
 **Authors:**  
 Shailendra Mishra, Ruba Ahmed Alfahidah, Fayez Al Harbi  
